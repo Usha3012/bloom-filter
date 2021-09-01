@@ -21,3 +21,4 @@ words.txt file in the code contains a list of files, the program reads the file 
 
 The program currently only reads a default words.txt, it would be better to supply the file as argument.
 Opt out of the feature due to time .
+
